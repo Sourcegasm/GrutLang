@@ -8,4 +8,4 @@ Syntax is similar to Whitespace language, since this language is compiled to Whi
 The compiler accepts a file and converst it into Whitespace, therefore you need Whitespace compiler to run the program as well.
 
 #Licencing
-Software is released under GPL licence.
+Software is released under MIT licence.
